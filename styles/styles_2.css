@@ -1,0 +1,46 @@
+
+*{
+    font-family: "Times New Roman", Times, serif;
+    font: size 15px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box
+    }
+  
+    .group .column{
+      float: left;
+      width: 25%;
+      padding: 25px;
+    }
+  
+  .group {
+    margin: 15px;
+    background: linear-gradient(to right,
+    #f1e8e8 25%,
+    #cec8c8 25%,
+    #cec8c8 50%,
+    #f1e8e8 50%,
+    #f1e8e8 75%,
+    #cec8c8  75%,
+    #f1e8e8 100%);   
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
